@@ -64,10 +64,6 @@ header{
     flex-basis: calc(100% / 3);
 }
 
-.size-60{
-    flex-basis: 60%;
-}
-
 
 
 /* main sections */
